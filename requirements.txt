@@ -5,3 +5,5 @@ pydantic
 python-dotenv
 jinja2
 weasyprint
+requests
+python-dotenv
