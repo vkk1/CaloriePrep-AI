@@ -12,5 +12,5 @@ class UserPrefs(BaseModel):
 class CaloriePlanState(BaseModel):
     prefs: UserPrefs = None 
     planned_meals: Dict[str, dict[str, str]] = {}
-    meal_details: Dict[str, List[str]] = {}
+    meal_details: Dict[str, dict[str, object]] = {}
     final_markdown: str = ""
