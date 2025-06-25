@@ -1,6 +1,12 @@
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+
 from langgraph.graph import StateGraph
 from agents.input_agent import input_agent
 from models.state import CaloriePlanState
+from models.state import UserPrefs
 
 # minimal langgraph test 
 graph = StateGraph(CaloriePlanState)
@@ -17,5 +23,7 @@ if __name__ == "__main__":
         "restrictions": ["no mushrooms"]
     }
 
-    result = builder.invoke(sample_input)
+    prefs = UserPrefs(**sample_input)
+    initial_state = CaloriePlanState(prefs=prefs)
+    result = builder.invoke(initial_state)   
     print(result)

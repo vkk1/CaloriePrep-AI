@@ -1,7 +1,9 @@
 from models.state import UserPrefs, CaloriePlanState
 
-def input_agent(input_data: dict) -> CaloriePlanState: 
+def input_agent(state: CaloriePlanState) -> CaloriePlanState: 
 
     # ingest user preferences, and return the CaloriePlanState
-    prefs = UserPrefs(**input_data)
+    if state.prefs: 
+        return state 
+    prefs = UserPrefs(**state.dict())
     return CaloriePlanState(prefs = prefs)
