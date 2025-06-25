@@ -32,7 +32,7 @@ if __name__ == "__main__":
         "calories_per_day": 1800, 
         "meals_per_day": 3, 
         "days": 2, 
-        "diet": "vegetarian", 
+        "diet": "", 
         "restrictions": []
     }
 

@@ -3,7 +3,6 @@ import requests
 from dotenv import load_dotenv 
 from models.state import CaloriePlanState
 
-load_dotenv() 
 API_KEY = os.getenv("SPOONACULAR_API_KEY")
 
 def search_recipe_id(title):

@@ -4,16 +4,15 @@ import random
 from dotenv import load_dotenv
 from models.state import CaloriePlanState
 
-load_dotenv() 
 API_KEY = os.getenv("SPOONACULAR_API_KEY")
 
-
+'''
 def fetch_meals(diet, target_calories, restrictions, count):
     url = "https://api.spoonacular.com/recipes/complexSearch"
     params = {
         "apiKey": API_KEY, 
         "diet": diet,
-        "number": 10, 
+        "number": 20, 
         "maxCalories": target_calories, 
         "addRecipeInformation": True
     }
@@ -26,6 +25,44 @@ def fetch_meals(diet, target_calories, restrictions, count):
     data = response.json()
 
     return [r for r in data.get("results", []) if r.get("title")]
+'''
+
+def fetch_meals(diet, target_calories, restrictions, count):
+    url = "https://api.spoonacular.com/recipes/complexSearch"
+    params = {
+        "apiKey": API_KEY,
+        "diet": diet,
+        "number": 30, 
+        "addRecipeInformation": True
+    }
+
+    if restrictions:
+        params["intolerances"] = ",".join(restrictions)
+
+    response = requests.get(url, params=params)
+
+    # ===== DEBUG LINES =====
+    print(f"[DEBUG] API_KEY = {API_KEY!r}")
+    print(f"[DEBUG] Request URL = {response.url}")
+    print(f"[DEBUG] Status Code = {response.status_code}")
+    print(f"[DEBUG] Body        = {response.text[:200]}…")
+    # =======================
+
+    data = response.json()
+    recipes = data.get("results", [])
+
+    filtered = []
+
+    print(f"[DEBUG] Total fetched recipes: {len(recipes)}")
+
+    for r in recipes:
+        nutrients = r.get("nutrition", {}).get("nutrients", [])
+        calories = next((n["amount"] for n in nutrients if n["name"] == "Calories"), 0)
+        if calories and calories <= target_calories:
+            filtered.append(r)
+
+    return filtered
+
 
 def meal_planner_agent(state: CaloriePlanState) -> CaloriePlanState:
     days = {}
