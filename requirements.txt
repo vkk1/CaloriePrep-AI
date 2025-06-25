@@ -1,0 +1,7 @@
+openai
+langchain>=0.3
+langgraph
+pydantic
+python-dotenv
+jinja2
+weasyprint
