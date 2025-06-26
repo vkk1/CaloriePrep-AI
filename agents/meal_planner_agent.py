@@ -35,7 +35,7 @@ def meal_planner_agent(state: CaloriePlanState) -> CaloriePlanState:
     per_meal_cal = state.prefs.calories_per_day
 
     for d in range(total_days):
-        
+
         day_name = f"Day {d+1}"
 
         meal_list = fetch_meals(
@@ -59,7 +59,6 @@ def meal_planner_agent(state: CaloriePlanState) -> CaloriePlanState:
             label: meal["title"]
             for label, meal in zip(meal_labels, chosen)
         }
-
 
     state.planned_meals = days
     return state

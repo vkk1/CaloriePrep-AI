@@ -5,7 +5,191 @@
 ## Day 1
 
 
-### 🍽️ Breakfast: Spicy Indian-Style Hummus
+### 🍽️ Breakfast: Snap Pea and Green Bean Salad with Arugula Pesto
+
+
+- **Calories**: 314.3
+- **Nutrition Check**: Too low (314.3 kCal). Consider adding something.
+
+**🧂 Ingredients:**
+
+- 1 cup roasted almonds
+
+- 1 tablespoon slice almonds
+
+- 2 cups baby arugula
+
+- 4 basil leaves
+
+- ½ cup cilantro
+
+- ½ cup extra virgin olive oil (more as needed)
+
+- 3 cloves of garlic
+
+- 1 cup micro greens or sprouts
+
+- zest from 1 lemon
+
+- ½ cup shelled pistachios
+
+- salt and black pepper
+
+- 1 pound snap peas
+
+- 1 pound green or wax beans
+
+- ½ cup plain yogurt or sour cream
+
+
+**📝 Instructions:**
+
+1. Bring a large pot of salted water to a boil.While your water is coming to a boil, prepare your arugula pesto and cilantro cream drizzle.In the bowl of your food processor, add the almonds, pistachios, garlic, lemon zest, baby arugula and basil leaves. Pulse 8-9 times until completely broken up. With the food processor running, slowly pour in the olive oil until the pesto just comes together. Season to taste with salt and black pepper and transfer to a large bowl.In the same food processor bowl (wipe clean if you wish), combine the yogurt and cilantro. Pulse until the two ingredients come together. Season to taste with salt and black pepper and set aside.Have an ice bath ready.
+
+2. Add the snap peas and beans to the boiling water and blanch for about 1 minute and 30 seconds.
+
+3. Drain and transfer immediately to the ice bath to cool down.
+
+4. Drain again once the veggies are cool, and pat them dry.
+
+5. Add the veggies to the bowl with the pesto and toss to coat.
+
+6. Pour the veggies onto a large platter and drizzle with the cilantro cream. Top with micro greens and sliced almonds. Enjoy immediately or place in the refrigerator to chill.
+
+
+---
+
+### 🍽️ Lunch: Roasted Cauliflower Detox Bowl with Tahini Sauce
+
+
+- **Calories**: 524.47
+- **Nutrition Check**: Within range (524.47 kCal).
+
+**🧂 Ingredients:**
+
+- 3 Large Kale Leaves
+
+- 1 clove garlic
+
+- 1/2 cup Quinoa
+
+- 1/4 Red Cabbage
+
+- 1 Avocado
+
+- 1/2 a Large Cauliflower
+
+- 1 tsp olive oil
+
+- 1/4 tsp Ground Cumin
+
+- garden cress
+
+- 1 head garlic roasted
+
+- 1/2 cup Raw Cashews soaked overnight in water
+
+- 2 tbsp Tahini
+
+- 4-6 tbsp Water or more, as needed
+
+- 1/4-1/2 tsp Kosher Salt
+
+
+**📝 Instructions:**
+
+1. Soak the cashews overnight in water.Preheat the oven to 200C/~395 F. Chop the cauliflower into florets and toss with the olive oil and ground cumin. Roast for 20-25 minutes until golden.To make the sauce, add all ingredients except the water and salt to a food processor. While blending, drizzle in the water a little at a time until the sauce starts to become smooth. Continue processing, scraping down the sides or adding additional water as needed, until the sauce is as smooth as your food processor can make it.
+
+2. Add salt to taste.Boil the quinoa in a saucepan for 10 minutes then drain and set aside. Meanwhile, chop the kale and red cabbage into thin strips and saute in a frying pan with the minced garlic clove over a medium heat until wilted.
+
+3. Add in the quinoa and toss so everything is mixed together.
+
+4. Place some of the kale mixture in the bottom of a bowl and top with sliced avocado, some of the roasted cauliflower, a drizzle of the tahini sauce and if desired, sprinkle some cress on the top.
+
+
+---
+
+### 🍽️ Dinner: Broccolini Quinoa Pilaf
+
+
+- **Calories**: 625.07
+- **Nutrition Check**: Within range (625.07 kCal).
+
+**🧂 Ingredients:**
+
+- 1 bunch broccolini, trimmed
+
+- 1 garlic clove, minced
+
+- 1 tbsp olive oil
+
+- ½ cup onion
+
+- 1 cup quinoa, rinsed
+
+- 2 cups vegetable broth
+
+- 2 oz chopped walnuts
+
+
+**📝 Instructions:**
+
+1. In a large pan with lid heat olive oil over medium high heat.
+
+2. Add onions and cook for 1 minute.
+
+3. Add garlic and cook until onions are translucent and garlic is fragrant.
+
+4. Add quinoa to pan, stir to combine. Slowly add in broth and bring to a boil.Cover and reduce heat to low, cook for 15 minutes.In the last 2-3 minutes of cooking add in broccolini on top of the quinoa (do not stir) and cover.Uncover and toss broccolini and quinoa together.Season to taste with salt and pepper.
+
+5. Add walnuts and serve hot.
+
+
+---
+
+
+## Day 2
+
+
+### 🍽️ Breakfast: Broccolini Quinoa Pilaf
+
+
+- **Calories**: 625.07
+- **Nutrition Check**: Within range (625.07 kCal).
+
+**🧂 Ingredients:**
+
+- 1 bunch broccolini, trimmed
+
+- 1 garlic clove, minced
+
+- 1 tbsp olive oil
+
+- ½ cup onion
+
+- 1 cup quinoa, rinsed
+
+- 2 cups vegetable broth
+
+- 2 oz chopped walnuts
+
+
+**📝 Instructions:**
+
+1. In a large pan with lid heat olive oil over medium high heat.
+
+2. Add onions and cook for 1 minute.
+
+3. Add garlic and cook until onions are translucent and garlic is fragrant.
+
+4. Add quinoa to pan, stir to combine. Slowly add in broth and bring to a boil.Cover and reduce heat to low, cook for 15 minutes.In the last 2-3 minutes of cooking add in broccolini on top of the quinoa (do not stir) and cover.Uncover and toss broccolini and quinoa together.Season to taste with salt and pepper.
+
+5. Add walnuts and serve hot.
+
+
+---
+
+### 🍽️ Lunch: Spicy Indian-Style Hummus
 
 
 - **Calories**: 133.79
@@ -57,160 +241,28 @@
 
 ---
 
-### 🍽️ Lunch: Moroccan Couscous and Chickpea Salad
+### 🍽️ Dinner: Homemade Guacamole
 
 
-- **Calories**: 483.46
-- **Nutrition Check**: Too low (483.46 kCal). Consider adding something.
-
-**🧂 Ingredients:**
-
-- 1 teaspoon black pepper
-
-- 15 ounce can of chickpeas (garbanzo beans), rinsed and strained
-
-- 1/4 teaspoon cayenne
-
-- 1/4 teaspoon cinnamon
-
-- 1 1/2 cups couscous
-
-- 3 chopped green onions or scallions
-
-- 1/4 teaspoon ground ginger
-
-- 1/4 teaspoon ground nutmeg
-
-- 1 lemon
-
-- Olive oil
-
-- 1 cup chopped parsley
-
-- 1 cup shelled and unsalted pistachio nuts
-
-- 1 small red pepper, diced
-
-- Salt to taste
-
-- 1/2 teaspoon turmeric
-
-- 1 1/2 cups vegetable broth
-
-
-**📝 Instructions:**
-
-1. Heat broth and a teaspoon of salt and bring to a boil.
-
-2. Place couscous in a bowl and add broth.  Cover bowl to let couscous absorb liquid.After  5 minutes, remove cover and fluff couscous with a fork.In a large bowl, add the chickpeas, pistachios, red peppers, green onions and parsley and mix well.
-
-3. Add the zest and juice of the lemon and mix again.
-
-4. Add the spice mixture over the couscous and mix well. Taste, and add salt if needed.
-
-5. Let the salad marinate for an hour or so before serving.
-
-
----
-
-
-## Day 2
-
-
-### 🍽️ Breakfast: Curried Butternut Squash and Apple Soup
-
-
-- **Calories**: 134.47
-- **Nutrition Check**: Too low (134.47 kCal). Consider adding something.
+- **Calories**: 170.13
+- **Nutrition Check**: Too low (170.13 kCal). Consider adding something.
 
 **🧂 Ingredients:**
 
-- 1 cup chopped cauliflower (3.5 oz)
+- 2 Avocados
 
-- 1/2 cup chopped butternut squash (2.5 oz)
+- 1 1/2 Tbsp Chopped cilantro
 
-- 1/2 cup peeled and chopped apple (2 oz)
+- 1 large lime (juiced)
 
-- 1 cup water, plus about 1/2 cup extra
+- 1/2 tsp pepper
 
-- 2-3 tsp Braggs liquid aminos
+- 1/4 cup chopped red onion
 
-- 1/2 heaping tsp: curry powder (or even 1 tsp, if you like the heat), garlic powder, onion powder
-
-- 1/4 tsp ginger powder
-
-- a small squirt (1/8 tsp) sriracha
-
-- 1/8 block pressed lite firm tofu, cubed
+- 1 Roma Tomato
 
 
 **📝 Instructions:**
-
-1. Get ready two small saucepans.
-
-2. In one have together 1/2 of the squash and 1/2 of the apple  bring to a simmer, and simmer until just tender when pierced with a fork.
-
-3. In the other, add in the rest of the vegetables along with 1 cup of water  bring this to a rolling boil, reduce to a simmer, and simmer until very very tender. When very tender, remove the vegetables from the heat, and blend these vegetables together (without draining) with the Braggs, spices, sriracha and the additional 1/2 cup water.
-
-4. Mix the blended part of the soup with the simmered squash and apples.
-
-5. Mix in the cubed tofu, gently re-heat and serve.
-
-
----
-
-### 🍽️ Lunch: Moroccan Couscous and Chickpea Salad
-
-
-- **Calories**: 483.46
-- **Nutrition Check**: Too low (483.46 kCal). Consider adding something.
-
-**🧂 Ingredients:**
-
-- 1 teaspoon black pepper
-
-- 15 ounce can of chickpeas (garbanzo beans), rinsed and strained
-
-- 1/4 teaspoon cayenne
-
-- 1/4 teaspoon cinnamon
-
-- 1 1/2 cups couscous
-
-- 3 chopped green onions or scallions
-
-- 1/4 teaspoon ground ginger
-
-- 1/4 teaspoon ground nutmeg
-
-- 1 lemon
-
-- Olive oil
-
-- 1 cup chopped parsley
-
-- 1 cup shelled and unsalted pistachio nuts
-
-- 1 small red pepper, diced
-
-- Salt to taste
-
-- 1/2 teaspoon turmeric
-
-- 1 1/2 cups vegetable broth
-
-
-**📝 Instructions:**
-
-1. Heat broth and a teaspoon of salt and bring to a boil.
-
-2. Place couscous in a bowl and add broth.  Cover bowl to let couscous absorb liquid.After  5 minutes, remove cover and fluff couscous with a fork.In a large bowl, add the chickpeas, pistachios, red peppers, green onions and parsley and mix well.
-
-3. Add the zest and juice of the lemon and mix again.
-
-4. Add the spice mixture over the couscous and mix well. Taste, and add salt if needed.
-
-5. Let the salad marinate for an hour or so before serving.
 
 
 ---
@@ -219,110 +271,132 @@
 ## Day 3
 
 
-### 🍽️ Breakfast: Cauliflower, Brown Rice, and Vegetable Fried Rice
+### 🍽️ Breakfast: Roasted Broccoli with Lemon and Garlic
 
 
-- **Calories**: 248.3
-- **Nutrition Check**: Too low (248.3 kCal). Consider adding something.
+- **Calories**: 58.24
+- **Nutrition Check**: Too low (58.24 kCal). Consider adding something.
 
 **🧂 Ingredients:**
 
-- 2 tablespoons grapeseed oil
+- 5 cups Organic Broccoli Florets
 
-- 2 tablespoons coconut oil
+- 2 teaspoons Extra Virgin Olive Oil
 
-- 7 scallions, chopped (keep white/light green ends separate from dark green tops)
+- 1 clove of garlic, or more
 
-- 5 cloves of garlic, chopped
+- ½ teaspoons Ground Black Pepper
 
-- head of cauliflower, raw
+- ½ teaspoons Lemon Juice
 
-- 3 cups of cooked brown rice, cold
-
-- 2 cups cooked broccoli, chopped small
-
-- 1 cup frozen peas
-
-- 3 T reduced-sodium soy sauce
-
-- 2 teaspoons toasted sesame oil
-
-- toasted sesame seeds, optional
-
-- additional chopped scallion tops for garnish
-
-- salt, to taste
+- 1/2 teaspoon salt
 
 
 **📝 Instructions:**
 
-1. Remove the cauliflower's tough stem and reserve for another use. Using a food processor, pulse cauliflower florets until they resemble rice or couscous. You should end up with around four cups of "cauliflower rice."
+1. Preheat the oven to 400 degrees FIn a large bowl, add broccoli florets, olive oil, salt, pepper and garlic.
 
-2. Heat 1T butter and 1T oil in a large skillet over medium heat.
+2. Spread the broccoli out in an even layer on a baking sheet.
 
-3. Add garlic and the white and light green pieces of scallion. Sauté about a minute.
+3. Bake in the preheated oven until broccoli is tender enough to pierce the stems with a fork, 15 to 20 minutes.
 
-4. Add the cauliflower to the pan. Stir to coat with oil, then spread out in pan and let sit; you want it cook a bit and to caramelize (get a bit brown), which will bring out the sweetness. After a couple of minutes, stir and spread out again.
-
-5. Add cold rice (it separates easily, so it won't clump up during cooking), plus the additional grapeseed and coconut oil or butter. Raise heat to medium-high. Toss everything together and, again, spread the mixture out over the whole pan and press a bit into the bottom.
-
-6. Let it sit for about two minutes—so the rice can get toasted and a little crispy.
-
-7. Add the peas and broccoli and stir again.
-
-8. Drizzle soy sauce and toasted sesame oil over rice.Cook for another minute or so and turn off heat.
-
-9. Add chopped scallion tops and toss.I like to toast some sesame seeds in a dry pan; I sprinkle these and some more raw, chopped scallion over the top of the rice for added flavor and crunch.Season to taste with salt and, if you'd like, more soy sauce. Keep in mind that if you're serving this with something salty and saucy (ie. teriyaki chicken) you may want to hold off on adding too much salt to the fried rice.
+4. Remove and place in a bowl, toss with lemon juice.
 
 
 ---
 
-### 🍽️ Lunch: Amaranth and Roast Veggie Salad
+### 🍽️ Lunch: Quinoa and Chickpea Salad with Sun-Dried Tomatoes and Dried Cherries
 
 
-- **Calories**: 360.99
-- **Nutrition Check**: Too low (360.99 kCal). Consider adding something.
+- **Calories**: 538.7
+- **Nutrition Check**: Within range (538.7 kCal).
 
 **🧂 Ingredients:**
 
-- 1/2 cup amaranth
+- 1/3 cup raw cashews, chopped or left whole
 
-- basil-infused olive oil
+- 1/3 cup dried cherries
 
-- pepper
+- 1/2 cup dried chickpeas (1 1/2 cups cooked or 1 14 oz can)
 
-- 1/2 packet diced pumpkin
+- 1/2 teaspoon dried thyme
 
-- 1 red onion
+- 1/2 teaspoon ground cumin
 
-- few rocket leaves
+- 1 1/2 tablespoons honey
 
-- herbal salt
+- 1 medium orange, juiced
 
-- 1/2 punnet (basket) baby tomatoes
+- 2 tablespoons olive oil
+
+- 1 cup dried quinoa (2 cups cooked)
+
+- 2 teaspoons red wine vinegar
+
+- sea salt and fresh cracked black pepper to taste
+
+- 1/2 cup sun-dried tomatoes
+
+- 1/2 teaspoon turmeric
 
 
 **📝 Instructions:**
 
-1. Cook the amaranth with about a cup of water until it reaches a sticky consistency
+1. Rinse the quinoa and soak for 8 hours or overnight in 2 cups of water. Rinse the chickpeas and soak for 8 hours or overnight in several inches of water.Rinse the chickpeas and transfer to a small saucepan. Cover with fresh water and bring to a boil. Reduce heat to medium-low, cover, and simmer for 1 hour or until buttery soft.While the chickpeas are cooking, soak the sun-dried tomatoes in hot water for 30 minutes, then drain and chop. Meanwhile, bring the quinoa to a boil in a medium saucepan. Reduce heat to the lowest setting, cover, and simmer for 15 minutes or until the water is absorbed.
 
-2. Cut the onion roughly into chunks
+2. Remove from heat and wait 5 minutes before fluffing with a fork.Meanwhile, toast the cashews in a dry unoiled skillet or saucepan over medium-low heat, tossing or stirring frequently, for 10 minutes until browned.
 
-3. Add the onion and diced pumpkin to a tinfoil lined baking tray
+3. Transfer the chickpeas, quinoa, sun-dried tomatoes, cashews and dried cherries to a large mixing bowl.
 
-4. Drizzled over the olive oil and sprinkle with the herbal salt and pepper
+4. Whisk the dressing ingredients together and pour over the salad. Stir to combine and serve at room temperature or chilled.
 
-5. Put into a hot oven and roast until the edges of the pumpkin go crispy
 
-6. Just before the veggies are done, throw in the baby tomatoes
+---
 
-7. Coat the veggies in the cooked amaranth
+### 🍽️ Dinner: Strawberry-Mango Quinoa Salad
 
-8. Tear a few rocket leaves
 
-9. Toss together and there you have it, an unusual roast veggie salad!
+- **Calories**: 353.62
+- **Nutrition Check**: Too low (353.62 kCal). Consider adding something.
 
-10. Serve warm
+**🧂 Ingredients:**
+
+- 3/4 cup cucumber
+
+- 2 tablespoons chopped fresh mint
+
+- 1 T. honey
+
+- 2 T. lime juice
+
+- 1/2 t. lime zest
+
+- 1/2 mango
+
+- 1/4 c. olive oil
+
+- pepper
+
+- 1 c. quinoa, well rinsed
+
+- salt
+
+- 1 T. sour cream (or plain yogurt can be subbed)
+
+- 1 1/2 cups strawberries, hulled and quartered
+
+- 1 1/2 c. water
+
+
+**📝 Instructions:**
+
+1. Prepare the quinoa: In a medium saucepan combine the quinoa, water and 1/4 t. salt. Bring to a boil, reduce heat to low, cover and simmer until the liquid is just absorbed, about 15 minutes.
+
+2. Spread the cooked quinoa out on a baking sheet to cool for about 20 minutes.In a large bowl whisk together lime juice, zest, honey, sour cream and olive oil.
+
+3. Add the cooled quinoa, strawberries, mango, cucumber and mint. Toss well to combine and season with salt &amp; pepper.
+
+4. Serve immediately.
 
 
 ---
