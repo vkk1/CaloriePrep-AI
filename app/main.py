@@ -47,6 +47,7 @@ def generate_plan(calories, meals, days, diet, restrictions_text):
 
 
 demo = gr.Interface(
+
     fn=generate_plan,
     inputs=[
         gr.Number(label="Calories per day", value=1800),
@@ -55,6 +56,7 @@ demo = gr.Interface(
         gr.Textbox(label="Diet (e.g. vegetarian)", value="vegetarian"),
         gr.Textbox(label="Restrictions (comma-separated)", placeholder="no mushrooms, no peanuts")
     ],
+    
     outputs=gr.Markdown(label = "Meal Plan"),
     title="CaloriePrep AI",
     description="Generate a custom meal plan with recipes and calories."

@@ -6,7 +6,9 @@ from models.state import CaloriePlanState
 API_KEY = os.getenv("SPOONACULAR_API_KEY")
 
 def search_recipe_id(title):
+
     url = "https://api.spoonacular.com/recipes/complexSearch"
+
     params = {
         "apiKey": API_KEY,
         "query": title, 
@@ -21,11 +23,14 @@ def search_recipe_id(title):
     return None
 
 def fetch_recipe_details(recipe_id):
+
     url = f"https://api.spoonacular.com/recipes/{recipe_id}/information"
+
     params = {
         "apiKey": API_KEY, 
         "includeNutrition": "true"
     }
+
     response = requests.get(url, params = params).json()
 
     return {
@@ -36,6 +41,7 @@ def fetch_recipe_details(recipe_id):
     }
 
 def recipe_agent(state: CaloriePlanState) -> CaloriePlanState:
+    
     all_meals = set()
 
     for day_meals in state.planned_meals.values(): 

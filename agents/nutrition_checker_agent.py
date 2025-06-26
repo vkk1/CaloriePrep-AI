@@ -5,6 +5,7 @@ def nutrition_checker_agent(state: CaloriePlanState) -> CaloriePlanState:
     tolerance = 0.25 
 
     for meal_name, details in state.meal_details.items(): 
+        
         cal = details.get("calories", 0)
 
         if not cal: 
