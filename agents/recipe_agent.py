@@ -48,11 +48,13 @@ def recipe_agent(state: CaloriePlanState) -> CaloriePlanState:
         all_meals.update(day_meals.values())
 
     for title in all_meals: 
+
         recipe_id = search_recipe_id(title)
 
         if recipe_id: 
             print(f"Fetching recipe for {title}")
             state.meal_details[title] = fetch_recipe_details(recipe_id)
+
         else: 
             print(f"Could not find recipe for {title}")
             state.meal_details[title] = {
@@ -60,4 +62,5 @@ def recipe_agent(state: CaloriePlanState) -> CaloriePlanState:
                 "instructions": ["Unavailable"], 
                 "calories": 0
             }
+            
     return state 
